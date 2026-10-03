@@ -1,15 +1,13 @@
-<pre style="font-family:'Courier New',Courier,monospace;font-size:12px;line-height:1.17;white-space:pre;background-color:#000;color:#fff;padding:8px;margin:0;"><span style="color:#AAAAAA">╒═════╗ ╒══════╗ ╒═════╗      ╒═════╗ ╒═╗ ╒═╗ ╒═╗ ╒═╗ ╒═══╗  ╒═╗ ╒═╗ ╒══╗ ╒═════╗ ╒══════╗     </span>
-<span style="color:#AAAAAA">│ ╓─┐ ║ └┐ ╓─┐ ║ │ ╓───╜      │ ╓─┐ ║ │ ║ │ ║ │ ║ │ ║ │   ╚╗ │ ║ │ ║╒╛ ╓╜ │ ╓───╜ │ ╓──┐ ║     </span>
-<span style="color:#AAAAAA">│ ╚═╛ ║  │ ║ │ ║ │ ╚═╗        │ ║ └─╜ │ ╚═╛ ║ │ ║ │ ║ │ ╟┐ ╚╗│ ║ │ ╚╛ ╚═╗ │ ╚═╗   │ ╚══╛ ║     </span>
-<span style="color:#AAAAAA">│ ╓───╜  │ ║ │ ║ │ ╓─╜        │ ║ ╒═╗ │ ╓─┐ ║ │ ║ │ ║ │ ║└┐ ╚╡ ║ │ ╓──┐ ║ │ ╓─╜   │ ╓─┐ ╓╜     </span>
-<span style="color:#AAAAAA">│ ║     ╒╛ ╚═╛ ║ │ ║          │ ╚═╛ ║ │ ║ │ ║ │ ╚═╛ ║ │ ║ └┐   ║ │ ║  │ ║ │ ╚═══╗ │ ║ │ ╚╗     </span>
-<span style="color:#AAAAAA">└─╜     └──────╜ └─╜          └─────╜ └─╜ └─╜ └─────╜ └─╜  └───╜ └─╜  └─╜ └─────╜ └─╜ └──╜     </span>
-<span style="color:#AAAAAA">                              ╒═════╗ ╒══════╗ ╒══════╗      ╒══════╗ ╒═══╗</span>
-<span style="color:#AAAAAA">                              │ ╓───╜ │ ╓──┐ ║ │ ╓──┐ ║      │ ╓──┐ ║ └┐ ╓╜</span>
-<span style="color:#AAAAAA">                              │ ╚═╗   │ ║  │ ║ │ ╚══╛ ║      │ ╚══╛ ║  │ ║ </span>
-<span style="color:#AAAAAA">                              │ ╓─╜   │ ║  │ ║ │ ╓─┐ ╓╜      │ ╓──┐ ║  │ ║ </span>
-<span style="color:#AAAAAA">                              │ ║     │ ╚══╛ ║ │ ║ │ ╚╗      │ ║  │ ║ ╒╛ ╚╗</span>
-<span style="color:#AAAAAA">                              └─╜     └──────╜ └─╜ └──╜      └─╜  └─╜ └───╜</span></pre>
+<pre style="font-family:'Courier New',Courier,monospace;font-size:12px;line-height:1.17;white-space:pre;background-color:#000;color:#fff;padding:8px;margin:0;"><span style="color:#AAAAAA"> /░░░░    /░░░     /░░░░           /░░░░    /░ /░    /░/░    /░ /░    /░/░    /█▀▀▀/    /░░░░       </span>
+<span style="color:#AAAAAA">│_▒ /▒   │-▒_/▒   │_▒__/          │ ▒__/   │ ▒▒▒▒   │ ▒ ▒   │ ▒▒ ▒   │ ▒▒/   │ ▓▓▓     │_▒ /▒       </span>
+<span style="color:#AAAAAA">│ ▓▓▓/   │ ▓│ ▓   │ ▓▓▓           │ ▓      │ ▓_/▓   │ ▓ ▓   │ ▓│▓▓   │ ▓▓    │_▒_/     │ ▓▓▓/       </span>
+<span style="color:#AAAAAA">│ █_/    │ ███/   │_█_/           │ ████   │ █│ █   │ ███   │ █│ █   │ █ █   │ ░░░░    │ █_/█       </span>
+<span style="color:#AAAAAA">│//      │/__/    │//             │/___/   │//│//   │/__/   │//│//   │////   │/___/    │// //       </span>
+<span style="color:#AAAAAA">                                           /░░░░    /░░░    /░░░░           /█▀▀█    /░░░</span>
+<span style="color:#AAAAAA">                                          │_▒__/   │_▒/▒   │_▒ /▒          │ ▓▓▓▓   │/_▒/</span>
+<span style="color:#AAAAAA">                                          │ ▓▓▓    │ ▓ ▓   │ ▓▓▓/          │_▒_/▒    │ ▓ </span>
+<span style="color:#AAAAAA">                                          │_█_/    │ ███   │ █_/█          │ ░│ ░    /███</span>
+<span style="color:#AAAAAA">                                          │//      │/__/   │// //          │//│//   │/__/</span></pre>
 
 
 # PDF Chunker for AI
